@@ -1,3 +1,16 @@
+button {
+	border-right-style: solid;
+  border-left-style: solid;
+  border-bottom-style: solid;
+  border-color: #243d81;
+  border-top-style: solid;
+	//border-radius: 0px 0px 15px 15px;
+  background-color: #36529d;
+    	border-width:3px;      padding:6px;
+
+}
+
+
 
 @font-face {
    font-family: myFirstFont;

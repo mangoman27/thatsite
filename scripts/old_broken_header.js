@@ -62,3 +62,11 @@ class Header extends HTMLElement {
 
 customElements.define('header-component', Header);
 
+-----------------------------------------------------------------
+
+	<center>
+	  		<marquee style="color:white;font-size:22px;"  class="header" behavior="alternate" scrollamount="25">Website recently crawled, Now appearing in google searches!</marquee>
+			</center>
+	<br>
+	
+	-----------------------------------------------------------------

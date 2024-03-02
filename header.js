@@ -6,8 +6,8 @@ class Header extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
       
-	  
-	  
+		
+
 	  
 	  	<div class="header">
 	<div class="headerlinks">
@@ -27,6 +27,11 @@ class Header extends HTMLElement {
 	</div>
 	</div>
 
+	
+		
+
+	
+	
 	<br>
 
 	  
