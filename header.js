@@ -19,7 +19,6 @@ class Header extends HTMLElement {
 	  <a  class="a"  href="blog.html">Blog</a>
 	  <a  class="a"  href="gallery.html">Gallery</a>
 	  
-	  <a  style="float:right" class="a2"> Site Updated: 03/03/24 </a>
 			  
 	
 	
