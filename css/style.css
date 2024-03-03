@@ -101,17 +101,7 @@ body {
  }
 
 
-	
 }
-
-@media only screen and (max-width: 600px) {
-
-.buttongone {
-     opacity:0;
-}
-	
-}
-
 
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -129,12 +119,17 @@ body {
 	  }
 
 
-
 	
 
 } 
 
+@media only screen and (max-width: 600px) {
 
+.buttongone {
+     opacity:0;
+}
+	
+}
 
 .headerlinks{
 	padding:5px;
