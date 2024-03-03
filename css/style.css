@@ -97,10 +97,12 @@ body {
 	  }
 
  .welc {
-	    height:3em;
+	height:3em;
  }
 
-
+.a3 {
+    display: none;
+}
 	
 }
 
