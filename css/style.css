@@ -94,16 +94,14 @@ body {
   .textbox,.header,.welc
   {
 	  width: 82%;
-
-
 	  }
 
  .welc {
 	    height:3em;
-
-
-
-	  }
+ }
+ .hidebutton {
+	  opacity: 0;
+ }
 
 	
 }
@@ -196,7 +194,7 @@ button {
 
 }
 
-
+ 
 
 
 
