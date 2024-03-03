@@ -53,7 +53,6 @@ body {
  // background-image: url("huh.png");
    object-fit: scale-down;
 
-  height:33em;
 
 }
 
@@ -98,6 +97,15 @@ body {
 
 
 	  }
+
+ .welc {
+	    height:16em;
+
+
+
+	  }
+
+	
 }
 
 
@@ -111,7 +119,12 @@ body {
 
 	  }
 
+ .welc {
+	    height:33em;
 
+
+
+	  }
 
 } 
 
