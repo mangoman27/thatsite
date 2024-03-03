@@ -101,7 +101,7 @@ body {
  }
 
 .a3 {
-    opacity: 0;
+     transform: scale(0);
 }
 	
 }
