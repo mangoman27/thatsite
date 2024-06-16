@@ -19,7 +19,7 @@ class Header extends HTMLElement {
 	  <a  class="a"  href="/about/index.html">About</a>
 	  <a  class="a"  href="/blog/pages/mar-24.html">Blog</a>
 	  <a  class="a"  href="/gallery/pages/23d-24j-Istanbul-Turkey.html">Photo's</a>
-	  <a  style="float:right" class="a2 bob"> Site Updated: 09/03/24 </a>
+	  <a  style="float:right" class="a2 bob"> Site Updated: 16/06/24 </a>
 
 			  
 	
